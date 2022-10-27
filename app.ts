@@ -19,4 +19,4 @@ function generateError(message: string, code: number) : never {   // never is di
 
 } 
 
-generateError('Not Found!', 404);
+generateError('Not Found!', 404); 

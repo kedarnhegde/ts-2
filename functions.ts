@@ -20,5 +20,5 @@ Addition = add;
 console.log('Function Assignment : ' + Addition(11,8));
 
 addAndHandle(10,9, (a) => {
-    console.log('Callback: ' + a);
+    console.log('Callback : ' + a);
 })
